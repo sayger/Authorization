@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "342344471782",
+    "firebase_url": "https://psychpterapist-default-rtdb.firebaseio.com",
+    "project_id": "psychpterapist",
+    "storage_bucket": "psychpterapist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342344471782:android:9e294b7e21f167ba959727",
+        "android_client_info": {
+          "package_name": "com.SAYGERGAMES.PSYCHPTERAPIST"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342344471782-2aesjru18kn5khigjsdcp5t64l97cu1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdrgUZhNERkwI3fyaEN7WIH3FCMdNI9tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342344471782-2aesjru18kn5khigjsdcp5t64l97cu1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="firebase_database_url" translatable="false">https://psychpterapist-default-rtdb.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">342344471782</string>
+  <string name="google_storage_bucket" translatable="false">psychpterapist.appspot.com</string>
+  <string name="project_id" translatable="false">psychpterapist</string>
+  <string name="google_api_key" translatable="false">AIzaSyDdrgUZhNERkwI3fyaEN7WIH3FCMdNI9tk</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDdrgUZhNERkwI3fyaEN7WIH3FCMdNI9tk</string>
+  <string name="google_app_id" translatable="false">1:342344471782:android:9e294b7e21f167ba959727</string>
+  <string name="default_web_client_id" translatable="false">342344471782-2aesjru18kn5khigjsdcp5t64l97cu1h.apps.googleusercontent.com</string>
+</resources>
