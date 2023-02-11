@@ -11,5 +11,8 @@ To create an application you need:
 3) create an application on the site and get your JSON file
 4) replace my file, then from firebase sdk install packages (FirebaseAnalytics, FirebaseAuth, FirebaseDatabase) to this project: https://github.com/sayger/Authorization
 
+buy me coffee https://www.donationalerts.com/r/saygergames
+              https://boosty.to/saygergames
+
 Check out the materials: https://firebase.google.com/docs/unity/setup?hl=en
 https://firebase.google.com/docs/projects/learn-more?hl=en
